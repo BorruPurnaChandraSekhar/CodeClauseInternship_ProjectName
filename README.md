@@ -1,0 +1,2 @@
+# CodeClauseInternship_ProjectName
+Python Development Internship in CodeClause
